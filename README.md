@@ -4,4 +4,4 @@ Benny Collins and Maeve Hutchinson's code for the Deep Reinforcement Learning mo
 [q_learning.ipynb](q_learning.ipynb) and [DQN.ipynb](DQN.ipynb) completed collaboratively, while [atari.ipynb](atari.ipynb) was completed independently.
 
 
-[DRL_report.ipynb](DRL_report.ipynb)
+[Link to report](DRL_report.ipynb)
